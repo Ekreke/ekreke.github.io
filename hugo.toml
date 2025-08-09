@@ -1,0 +1,4 @@
+baseURL = 'https://ekreke.github.io/'
+languageCode = 'en-us'
+title = 'Ekreke'
+theme = 'ananke'
