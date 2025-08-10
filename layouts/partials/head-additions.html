@@ -1,0 +1,4 @@
+    {{/* 引入自定义 CSS */}}
+    {{ $css := resources.Get "css/custom.css" }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    
